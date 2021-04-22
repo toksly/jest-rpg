@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1619134349453" clover="3.2.0">
-  <project timestamp="1619134349454" name="All files">
-    <metrics statements="12" coveredstatements="12" conditionals="5" coveredconditionals="4" methods="2" coveredmethods="2" elements="19" coveredelements="18" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
+<coverage generated="1619135377908" clover="3.2.0">
+  <project timestamp="1619135377909" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="7" coveredconditionals="6" methods="4" coveredmethods="4" elements="30" coveredelements="29" complexity="0" loc="19" ncloc="19" packages="1" files="2" classes="2"/>
     <file name="Player.js" path="/Users/Jayliz/Desktop/projects/jest-rpg/lib/Player.js">
-      <metrics statements="6" coveredstatements="6" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="13" coveredstatements="13" conditionals="3" coveredconditionals="2" methods="3" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
     </file>
     <file name="Potion.js" path="/Users/Jayliz/Desktop/projects/jest-rpg/lib/Potion.js">
       <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
